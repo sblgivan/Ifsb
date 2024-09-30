@@ -1,0 +1,7 @@
+sys
+asyncio
+os
+deriv_api
+talib
+Flask
+numpy
